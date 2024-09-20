@@ -11,7 +11,11 @@
 // console.log(z);
 
 
-let vvalue = 2
-let nvalue  = -vvalue
+// let vvalue = 2
+// let nvalue  = -vvalue
 
-console.log(nvalue);
+// console.log(nvalue);
+
+console.log("2"+2+2);
+console.log(2+2+"2");
+
